@@ -6,7 +6,9 @@
             "host": "mongodb://localhost:",
             "port": "27017",
             "database": "books"
-        }
+        },
+        "secret":"secret",
+        "masterUser":"super admin"
     }
    
 }
